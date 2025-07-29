@@ -34,7 +34,7 @@ ImageResizer/
 
 | Original | Nearest Neighbor (0.5x) | Bilinear (0.5x) |
 |----------|--------------------------|------------------|
-| ![Original](cell2.jpg) | ![Nearest](output/nearest_cell2.jpg) | ![Bilinear](output/bilinear_cell2.jpg) |
+| ![Original](cell2.jpg) | ![Nearest](output/resize/nearest_cell2.jpg) | ![Bilinear](output/resize/bilinear_cell2.jpg) |
 
 ## ▶️ How to Use
 
